@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn1_.png" ,Espn
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/espn2_.png" ,Espn2
@@ -31,3 +32,15 @@ https://ed3.zorrohd.nl/live/flowitc91zh.m3u8
 
 #EXTINF:-1 ,DIRECTV SPORTS+
 https://ed5.zorrohd.nl/live/flowitc96js.m3u8
+
+#EXTINF:-1 ,VENUS
+https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
+
+#EXTINF:-1 ,PLAYBOY
+https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+
+#EXTINF:-1 ,TEENS
+https://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 ,SEXTREME
+https://edge3.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
