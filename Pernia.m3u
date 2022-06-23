@@ -33,6 +33,9 @@ https://ed3.zorrohd.nl/live/flowitc91zh.m3u8
 #EXTINF:-1 ,DIRECTV SPORTS+
 https://ed5.zorrohd.nl/live/flowitc96js.m3u8
 
+#EXTINF:-1 ,BRAZZER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/135_.m3u8?token=xvKFA7SyVsohxIru-w9O2w&expires=1656036795&ip=190.231.73.31
+
 #EXTINF:-1 ,VENUS
 https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
 
