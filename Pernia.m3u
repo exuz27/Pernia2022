@@ -21,29 +21,29 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/foxsports_.png" ,Fox Sport 2
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 
-#EXTINF:-1 ,TNT SPORTS
+#EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/TNT_Sports.webp" ,TNT SPORTS
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/TYC_Sports.webp? ,TyC SPORTS
+#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/TYC_Sports.webp?" ,TyC SPORTS
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
-#EXTINF:-1 ,DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/DirecTV_Sports.webp" ,DIRECTV SPORTS
 https://ed3.zorrohd.nl/live/flowitc91zh.m3u8
 
-#EXTINF:-1 ,DIRECTV SPORTS+
+#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/img/DirecTV_Sports_Plus.webp" ,DIRECTV SPORTS+
 https://ed5.zorrohd.nl/live/flowitc96js.m3u8
 
-#EXTINF:-1 ,VENUS
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/venus.png" ,VENUS
 https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
 
 #EXTINF:-1 ,PLAYBOY
 https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
 
-#EXTINF:-1 ,TEENS
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/teens.png" ,TEENS
 https://cdn.adultiptv.net/russian.m3u8
 
-#EXTINF:-1 ,SEXTREME
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/sextreme.png" ,SEXTREME
 https://edge3.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
 
-#EXTINF:-1 ,BRAZZER
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/brazzers.png" ,BRAZZER
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/135_.m3u8?token=xvKFA7SyVsohxIru-w9O2w&expires=1656036795&ip=190.231.73.31
